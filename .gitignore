@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# WESAD dataset folder (stored outside project)
+../WESAD/
+
+# Outputs you don't want tracked
+outputs/models/
+outputs/logs/
+*.pt
+*.h5
+
+# Jupyter auto-checkpoints
+.ipynb_checkpoints/
+
+# Other large generated files (optional)
+*.pkl
+*.npy
