@@ -23,7 +23,7 @@ To run the code, please follow these steps:
 
 ```
 project-root/
-├── WESAD/                           # <-- Place the extracted dataset here
+├── WESAD/                          # <-- Place the extracted dataset here
 └── WESAD-FL-LLM-StressDetection/   # <-- This GitHub project
     ├── notebooks/
     ├── utils/
