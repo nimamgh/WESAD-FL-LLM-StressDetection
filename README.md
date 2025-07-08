@@ -21,6 +21,7 @@ To run the code, please follow these steps:
 
 3. Your folder structure should look like this:
 
+'''
 project-root/
 |--- WESAD/                            # <-- Place the extracted dataset here
 |--- WESAD-FL-LLM-StressDetection/     # <-- This GitHub project
@@ -28,4 +29,5 @@ project-root/
 |    |--- utils/
 |    |--- ...
 
+'''
 4. The code will reference the dataset using relative paths like `../WESAD/S2/S2.pkl`.
